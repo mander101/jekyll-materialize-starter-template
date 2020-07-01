@@ -9,3 +9,5 @@ github_username:  mander101
 
 sass:
     style: compressed
+
+theme: jekyll-theme-modernist
