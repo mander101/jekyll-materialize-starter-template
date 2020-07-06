@@ -27,19 +27,19 @@ defaults:
 
 
 
-title: "bit-ranger"
-email: sincerebravefight@gmail.com
+title: "minh anderson"
+email: minhanderson@gmail.com
 description: ""
 github:
-  username: bit-ranger
+  username: mander101
 swiftype:
   searchId: iXZyPokVfxFaBTvi64Y6
 gitment:
-    repo: blog
-    client_id: a6fb73b3e790e234bab8
-    client_secret: cc10aaff53a03d05ab2ee002dbf401dd7627c7a3
+    repo: mander101.github.io
+    client_id: 05770c5428e589ddf0e6
+    client_secret: cd13f35fb1a5918224a39d91fb3395286f5304b8
 
-url: "https://bit-ranger.github.io/blog"
+url: "https://minhanderson.com"
 imgrepo: "https://bit-ranger.github.io/blog/static/img"
 
 
